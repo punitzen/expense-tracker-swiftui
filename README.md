@@ -29,7 +29,8 @@ class YourCustomClass: UserTransaction {
  @StateObject var transactionViewModel = TransactionListViewModel(userAPIDelegate: YourCustomClass())
 ```
 
-
+## Inspiration (lol enhanced copy)
+[DesignCode YT](https://youtu.be/Bu6fAlltatA)
 
 ### Packages Used
 [SwiftUICharts](https://github.com/willdale/SwiftUICharts) | [SwiftUIFontIcon](https://github.com/huybuidac/SwiftUIFontIcon)
