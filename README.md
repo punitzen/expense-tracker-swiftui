@@ -1,5 +1,5 @@
 ## Expense Tracker in SwiftUI
-An app to manage your expenses which you have wasted till now, used MVVM architecture.
+An app to manage your expenses which you will waste (just like me), used MVVM architecture.
 
 ![gitDemo](hehe.gif)
 
