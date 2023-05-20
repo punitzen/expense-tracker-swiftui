@@ -30,7 +30,7 @@ class YourCustomClass: UserTransaction {
 ```
 
 ### Inspiration (lol enhanced copy)
-[DesignCode YT](https://www.youtube.com/@DesignCodeTeam)
+[DesignCode YT](https://youtu.be/Bu6fAlltatA)
 
 ### Packages Used
 [SwiftUICharts](https://github.com/willdale/SwiftUICharts) | [SwiftUIFontIcon](https://github.com/huybuidac/SwiftUIFontIcon)
