@@ -29,7 +29,7 @@ class YourCustomClass: UserTransaction {
  @StateObject var transactionViewModel = TransactionListViewModel(userAPIDelegate: YourCustomClass())
 ```
 
-## Inspiration (lol enhanced copy)
+### Inspiration (lol enhanced copy)
 [DesignCode YT](https://youtu.be/Bu6fAlltatA)
 
 ### Packages Used
